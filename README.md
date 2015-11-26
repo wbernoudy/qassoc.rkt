@@ -1,5 +1,5 @@
 # qassoc.rkt
-An implementation of quantum associative memory based on the quantum computer simulator quetzal.rkt.
+An implementation of quantum associative memory based [quetzal](https://github.com/rhyzomatic/quetzal), a quantum computer simulator.
 ## Usage
 ```
 > (define P '((0 0 0 0) (0 0 1 1) (0 1 1 0) (1 0 0 1) (1 1 0 0) (1 1 1 1)))
